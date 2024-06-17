@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ルミムTHEよりもと</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="総合実践0101/favicon-16x16.png"
+    />
+  </head>
+
+  <body>
+    <div id="wrapper">
+      <!-- ヘッダーここから -->
+      <header class="page-heahder">
+        <h1>
+          <a href="index.html"
+            ><img
+              class="logo"
+              src="総合実践0101/dougasakusei rogo 会社名あり.png"
+              alt="ルミムTHEよりもと"
+          /></a>
+        </h1>
+
+        <nav>
+          <ul>
+            <li><a href="インフォメーション.html">インフォメーション</a></li>
+            <li><a href="劇場施設案内.html">施設案内</a></li>
+            <li><a href="公演スケジュール.html">公演スケジュール</a></li>
+            <li><a href="座席表.html">座席表</a></li>
+            <li><a href="アクセス.html">アクセス</a></li>
+            <li><a href="お問い合わせ.html">お問い合わせ</a></li>
+          </ul>
+        </nav>
+
+        <div class="clear"></div>
+      </header>
+      <!-- ヘッダー-->
+
+      <!-- メイン画像ここから -->
+      <div id="mainimage" class="box-shadow">
+        <img src="総合実践0101/トップ画像.jpg" alt="メイン画像" />
+      </div>
+      <!-- メイン画像 -->
+
+      <!-- 左ここから -->
+      <div id="left" class="box-shadow">
+        <h2>新着情報</h2>
+        <ul>
+          <li><span>2024-4-13</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-14</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-15</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-16</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-17</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-18</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-19</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-20</span>本日の出演者情報更新！</li>
+          <li><span>2024-4-21</span>本日の出演者情報更新！</li>
+        </ul>
+      </div>
+      <!-- 左 -->
+
+      <!-- 右ここから -->
+      <div id="right">
+        <ul>
+          <li class="box-shadow">
+            <a id="contact" href="アクセス.html">劇場場所</a>
+          </li>
+          <li class="box-shadow">
+            <a id="blog" href="座席表.html">座席表</a>
+          </li>
+        </ul>
+      </div>
+      <!-- 右 -->
+
+      <div class="clear"></div>
+    </div>
+    <!-- //#wrapper -->
+
+    <!-- フッター -->
+    <footer>
+      <p>(C) yorimotokougyou All Right Reserved.</p>
+    </footer>
+    <!-- フッター -->
+  </body>
+</html>
