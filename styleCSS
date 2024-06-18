@@ -172,7 +172,7 @@ div#wrapper {
 }
 
 body {
-  background-image: url(総合実践0101/penki.jpg);
+  background-image: url(zissen0101/penki.jpg);
   background-repeat: no-repeat;
   background-position: left bottom;
   background-attachment: fixed;
