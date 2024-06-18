@@ -8,7 +8,7 @@
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="総合実践0101/favicon-16x16.png"
+      href="zissen0101/favicon-16x16.png"
     />
   </head>
 
@@ -20,7 +20,7 @@
           <a href="index.html"
             ><img
               class="logo"
-              src="総合実践0101/dougasakusei rogo.png"
+              src="zissen0101/dougasakusei rogo.png"
               alt="ルミムTHEよりもと"
           /></a>
         </h1>
@@ -42,7 +42,7 @@
 
       <!-- メイン画像ここから -->
       <div id="mainimage" class="box-shadow">
-        <img src="総合実践0101/top.jpg" alt="メイン画像" />
+        <img src="zissen0101/top.jpg" alt="メイン画像" />
       </div>
       <!-- メイン画像 -->
 
@@ -87,4 +87,5 @@
     <!-- フッター -->
   </body>
 </html>
+
 
