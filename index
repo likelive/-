@@ -20,7 +20,7 @@
           <a href="index.html"
             ><img
               class="logo"
-              src="総合実践0101/dougasakusei rogo 会社名あり.png"
+              src="総合実践0101/dougasakusei rogo.png"
               alt="ルミムTHEよりもと"
           /></a>
         </h1>
@@ -42,7 +42,7 @@
 
       <!-- メイン画像ここから -->
       <div id="mainimage" class="box-shadow">
-        <img src="総合実践0101/トップ画像.jpg" alt="メイン画像" />
+        <img src="総合実践0101/top.jpg" alt="メイン画像" />
       </div>
       <!-- メイン画像 -->
 
